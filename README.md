@@ -3,7 +3,7 @@ Terrorism is the threat or actual use of unlawful force and violence by a non-st
 
 In this project I analyze terrorist attacks around the world. I will focus on the factors that influence the death of people, the use of weapons and go through the regions where there have been many different attacks, and try to create models.
  
-The dataset is taken from the webpage of kaggle: https://www.kaggle.com/START-UMD/gtdselect=globalterrorismdb_0718dist.csv.
+The dataset is taken from the webpage of kaggle:https://www.kaggle.com/START-UMD/gtd?select=globalterrorismdb_0718dist.csv.
 The following data was used for analysis: 'Year', 'Month', 'Day', 'Country', 'Region', 'city', 'latitude', 'longitude', 'AttackType', 'Killed', 'Wounded ',' Target ',' Summary ',' Group ',' Target_type ',' Weapon_type ',' Motive '.
 The main goal of the project is to extract some thoughts from the dataset by examining and conducting research.
 
